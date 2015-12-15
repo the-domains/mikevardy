@@ -1,0 +1,28 @@
+name: MikeVardy
+favicon: null
+layout_spectrum: 0.306242746533826
+typography_spectrum: 0.8367007533088326
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.11251726257614791
+  lightness: 0.0015714678447693586
+  saturation: 0.47141148522496223
+  rhythmicContrast: 0.9845425754319876
+purpose: []
